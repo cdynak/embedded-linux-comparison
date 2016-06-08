@@ -1,25 +1,22 @@
 # yocto simplest example
 
-# preparing system
+## preparing system
 
-## packages
-
+### packages
+```
 $ sudo apt install gawk wget git-core diffstat unzip texinfo build-essential chrpath
 $ wget http://commondatastorage.googleapis.com/git-repo-downloads/repo
 $ chmod a+x repo
 $ sudo mv repo /usr/local/bin/
+```
 
-## configure git
-
+### configure git
 ```
 $ git config --global user.email "cdynak@ars-robotica.pl"
 $ git config --global user.name "cezary dynak"
 ```
 
----
-
-# fsl-community-bsp-platform (repo)
-
+## fsl-community-bsp-platform (repo)
 ```
 $ mkdir freescale-yocto
 $ cd freescale-yocto
@@ -27,10 +24,7 @@ $ repo init -u https://github.com/Freescale/fsl-community-bsp-platform -b daisy
 $ repo sync
 ```
 
----
-
-# compilation (bitbake)
-
+## compilation (bitbake)
 ```
 $ export MACHINE=wandboard-quad
 $ source setup-environment build
