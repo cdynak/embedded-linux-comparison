@@ -34,5 +34,5 @@ $ pv build/tmp/deploy/images/wandboard-quad/fsl-image-multimedia-wandboard-quad.
 
 ## communication (picocom)
 ```
-$ picocom -b 11520 /dev/ttyUSB0
+$ picocom -b 115200 /dev/ttyUSB0
 ```
