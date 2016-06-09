@@ -31,3 +31,8 @@ $ source setup-environment build
 $ bitbake fsl-image-multimedia
 $ pv build/tmp/deploy/images/wandboard-quad/fsl-image-multimedia-wandboard-quad.sdcard
 ```
+
+## communication (picocom)
+```
+$ picocom -b 11520 /dev/ttyUSB0
+```
