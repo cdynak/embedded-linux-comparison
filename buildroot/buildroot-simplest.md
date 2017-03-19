@@ -3,8 +3,7 @@
 ## preparing system
 
 ```
-# apt install libncurses-dev
-# apt install libdt4-dev
+# apt install libncurses-dev libdt4-dev git make gcc g++
 ```
 
 ## get buildroot
