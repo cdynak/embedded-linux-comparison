@@ -26,6 +26,8 @@ http://wiki.litesom.grinn-global.com
 http://www.wandboard.org/index.php/details/wandboard
 ## pandaboard
 http://www.pandaboard.org/node/300/#Panda
+## embedded artists
+https://www.embeddedartists.com/products/kits/lpc3250_kit_v2.php
 
 # software
 
