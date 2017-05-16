@@ -11,6 +11,7 @@ http://www.linuxfromscratch.org
 ## ltib
 http://ltib.org
 ## pengutronix
+http://www.pengutronix.de/software/ptxdist/
 
 # boards
 https://en.wikipedia.org/wiki/Microprocessor_development_board
