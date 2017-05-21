@@ -31,6 +31,8 @@ https://www.embeddedartists.com/products/kits/lpc3250_kit_v2.php
 
 # software
 
+https://en.wikipedia.org/wiki/Open_Build_Service
+
 ## linux/posix test
 
 https://en.wikipedia.org/wiki/POSIX
