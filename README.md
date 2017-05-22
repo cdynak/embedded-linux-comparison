@@ -43,6 +43,22 @@ https://www.opengroup.org/testing/linux-test/
 
 https://wiki.linuxfoundation.org/en/Testing
 
+---
+
+https://wiki.linuxfoundation.org/en/Testing
+
+https://wiki.linuxfoundation.org/en/Book/HowToTest
+
+https://wiki.linuxfoundation.org/en/ReleaseNotes50
+
+http://refspecs.linuxfoundation.org/lsb.shtml
+
+http://ltp.sourceforge.net/beta/lsb_1p0.php
+
+https://github.com/NixOS/nixpkgs/issues/22729
+
+https://github.com/linux-test-project/ltp
+
 ## nodejs
 
 https://nodejs.org/en/
