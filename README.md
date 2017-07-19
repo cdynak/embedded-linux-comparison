@@ -80,12 +80,21 @@ https://en.wikipedia.org/wiki/CANopen
 # literature
 
 http://wydawnictwo.btc.pl/index.php?ukey=product&productID=197880
+
 http://wydawnictwo.btc.pl/index.php?ukey=product&productID=188239
+
 http://helion.pl/search?qa=&serwisyall=&szukaj=embedded&wprzyg=&wsprzed=&wyczerp=
+
 http://helion.pl/ksiazki/node-js-for-embedded-systems-using-web-technologies-to-build-connected-devices-patrick-mulder-kelsey-breseman,e_09yf.htm#format/e
+
 http://helion.pl/ksiazki/building-embedded-linux-systems-karim-yaghmour,e_2gdo.htm#format/e
+
 http://helion.pl/ksiazki/building-embedded-linux-systems-2nd-edition-karim-yaghmour-jon-masters-gilad-ben-yossef,e_2gf0.htm#format/e
+
 https://ssearch.oreilly.com/?q=embedded&x=0&y=0
+
 http://shop.oreilly.com/product/0636920041504.do
+
 http://shop.oreilly.com/product/9781787124202.do
+
 http://shop.oreilly.com/product/9781784392536.do
